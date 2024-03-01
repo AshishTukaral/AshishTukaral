@@ -1,11 +1,11 @@
-[![MasterHead](https://img.freepik.com/free-photo/one-person-typing-computer-keyboard-night-generated-by-ai_188544-31047.jpg?t=st=1709288766~exp=1709292366~hmac=e1fd4873f3eaf49ff87c23888a87db4cf24ef0256868107c0c49e6ac6c338141&w=1060)]
+![MasterHead](https://img.freepik.com/free-photo/one-person-typing-computer-keyboard-night-generated-by-ai_188544-31047.jpg?t=st=1709288766~exp=1709292366~hmac=e1fd4873f3eaf49ff87c23888a87db4cf24ef0256868107c0c49e6ac6c338141&w=1060)
 <h1 align="center">Hi 👋, I'm Ashish Tukaral</h1>
 <h3 align="center">AI/ML developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishtukaral&label=Profile%20views&color=0e75b6&style=flat" alt="ashishtukaral" /> </p>
 
-- 🔭 I’m currently working on **Thyroid detection**
+- 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **Yolov8**
 
